@@ -1,2 +1,6 @@
 ok nhe
+<<<<<<< HEAD
 kkkk
+=======
+heelooo
+>>>>>>> ccbb89d1c33eaa34159d7a7de92c5467f249a117
